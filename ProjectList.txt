@@ -1,0 +1,2 @@
+C:\Fdftp\Fdftp.vbp
+D:\ChatLog\ChatLog.vbp
